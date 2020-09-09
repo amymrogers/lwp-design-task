@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lwp-design-task/static/css/main.9de69f34.chunk.css",
+    "main.js": "/lwp-design-task/static/js/main.9f679e98.chunk.js",
+    "main.js.map": "/lwp-design-task/static/js/main.9f679e98.chunk.js.map",
+    "runtime-main.js": "/lwp-design-task/static/js/runtime-main.f91b18a1.js",
+    "runtime-main.js.map": "/lwp-design-task/static/js/runtime-main.f91b18a1.js.map",
+    "static/js/2.d1f24ec5.chunk.js": "/lwp-design-task/static/js/2.d1f24ec5.chunk.js",
+    "static/js/2.d1f24ec5.chunk.js.map": "/lwp-design-task/static/js/2.d1f24ec5.chunk.js.map",
+    "index.html": "/lwp-design-task/index.html",
+    "precache-manifest.46d78f0068364c89f11026eb93526d00.js": "/lwp-design-task/precache-manifest.46d78f0068364c89f11026eb93526d00.js",
+    "service-worker.js": "/lwp-design-task/service-worker.js",
+    "static/css/main.9de69f34.chunk.css.map": "/lwp-design-task/static/css/main.9de69f34.chunk.css.map",
+    "static/js/2.d1f24ec5.chunk.js.LICENSE.txt": "/lwp-design-task/static/js/2.d1f24ec5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/lwp-design-task/static/media/Chaloops.00bd684a.otf",
+    "static/media/english.png": "/lwp-design-task/static/media/english.ecf0c937.png",
+    "static/media/mathscot.png": "/lwp-design-task/static/media/mathscot.a2f9dd1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91b18a1.js",
+    "static/js/2.d1f24ec5.chunk.js",
+    "static/css/main.9de69f34.chunk.css",
+    "static/js/main.9f679e98.chunk.js"
+  ]
+}
